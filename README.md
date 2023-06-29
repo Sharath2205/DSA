@@ -2,63 +2,38 @@
 
 * Pattern 1
 [
-\* * * * *
-\* * * * *
-\* * * * *
-\* * * * *
-\* * * * *
-](#pattern-1)
+        ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P1.png)
+    ](#pattern-1)
 <br>
 * Pattern 2
 [
-    \*
-    \* * 
-    \* * * 
-    \* * * * 
-    \* * * * *
-](#pattern-2)
+        ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P2.png)
+    ](#pattern-2)
 <br>
 
 
 * Pattern 3
 [
-1
-1 2 
-1 2 3 
-1 2 3 4 
-1 2 3 4 5
-](#pattern-3)
+        ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P3.png)
+    ](#pattern-3)
 <br>
 
 
 * Pattern 4
 [
-1
-2 2 
-3 3 3 
-4 4 4 4 
-5 5 5 5 5
-](#pattern-4)
-<br>
+        ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P4.png)
+    ](#pattern-4)<br>
 
 * Pattern 5
 [
-\* * * * *
-\* * * * 
-\* * * 
-\* *  
-\*
-](#pattern-5)
+        ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P5.png)
+    ](#pattern-5)
 <br>
 
 * Pattern 6
   [
-    1 2 3 4 5
-    1 2 3 4
-    1 2 3 
-    1 2  
-    1 
-  ](#pattern-6)
+        ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P6.png)
+    ](#pattern-6)
 <br>
 
 * Pattern 7
