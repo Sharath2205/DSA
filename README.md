@@ -5,12 +5,12 @@
         ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P1.png)
     ](#pattern-1)
 <br>
+
 * Pattern 2
 [
         ![Alt text](https://takeuforward.org/wp-content/uploads/2022/08/P2.png)
     ](#pattern-2)
 <br>
-
 
 * Pattern 3
 [
