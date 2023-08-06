@@ -6,6 +6,7 @@
     - [Reverse Bits](#reverse-bits)
     - [Palindrome](#palindrome)
     - [LCM and GCD](#lcm-and-gcd)
+    - [Prime Number](#primeNumber)
   - [Medium Problems](#medium-problems)
     - [Reverse Integer](#reverse-integer)
 - [RECURSION](#recursion)
@@ -236,6 +237,44 @@ class Solution {
         if (A == 0) return B;
         return GCD(B % A, A);
     }
+}
+```
+
+<a name="primeNumber"></a>
+
+### Reverse Integer
+
+Given a number, check whether it is prime or not. A prime number is a natural number that is only divisible by 1 and by itself.
+
+Example 1:
+Input: N = 3
+Output: Prime
+Explanation: 3 is a prime number
+
+Example 2:
+Input: N = 26
+Output: Non-Prime
+Explanation: 26 is not prime
+
+Solution:
+
+```java
+public class Solution {
+	public static String isPrime(int num) {
+
+		// for(int i = 2; i < num; i++) {
+		// 	if(num % i == 0 ) return false;
+		// }
+		//  return true;
+
+		//Your code goes here
+		if(num == 1) return "NO";
+		for (int i = 2; i < Math.sqrt(num); i++) {
+			if (num % i == 0) return "NO";
+		}
+		return "YES";
+		
+	}
 }
 ```
 
